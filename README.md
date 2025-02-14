@@ -6,3 +6,5 @@ OceanNode({0},None,OceanNode({1},None,OceanNode({2},None,OceanNode({3},None,Ocea
 
 It's a tree with a depth of 100 and one node per level.
 This program was made for one of my classes.
+
+There is an error is this code where it fails on one edge-case.
